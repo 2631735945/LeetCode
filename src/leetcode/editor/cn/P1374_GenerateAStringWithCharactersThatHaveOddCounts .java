@@ -47,12 +47,12 @@
 //public class P1374_GenerateAStringWithCharactersThatHaveOddCounts{
 //	 public static void main(String[] args) {
 //	 	 //测试代码
-//	 	 Solution solution = new P1374_GenerateAStringWithCharactersThatHaveOddCounts().new Solution();
+//	 	 队列.Solution solution = new P1374_GenerateAStringWithCharactersThatHaveOddCounts().new 队列.Solution();
 //	 }
 //
 ////力扣代码
 ////leetcode submit region begin(Prohibit modification and deletion)
-//class Solution {
+//class 队列.Solution {
 ////    public String generateTheString(int n) {
 ////
 ////    }

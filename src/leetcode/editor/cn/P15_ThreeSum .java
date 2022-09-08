@@ -50,12 +50,12 @@
 //public class P15_ThreeSum{
 //	 public static void main(String[] args) {
 //	 	 //测试代码
-//	 	 Solution solution = new P15_ThreeSum().new Solution();
+//	 	 队列.Solution solution = new P15_ThreeSum().new 队列.Solution();
 //	 }
 //
 ////力扣代码
 ////leetcode submit region begin(Prohibit modification and deletion)
-//class Solution {
+//class 队列.Solution {
 //    public List<List<Integer>> threeSum(int[] nums) {
 //
 //    }
